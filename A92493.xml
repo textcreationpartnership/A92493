@@ -1,0 +1,157 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Act for taking the oath of alledgeance and the assurance. Edinburgh, the twentie third day of May, 1693</title>
+            <author>Scotland. Convention of Estates.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1693</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 15 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A92493</idno>
+            <idno type="STC">Wing S1105B</idno>
+            <idno type="STC">ESTC R229971</idno>
+            <idno type="EEBO-CITATION">99899385</idno>
+            <idno type="PROQUEST">99899385</idno>
+            <idno type="VID">153306</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A92493)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 153306)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2358:24)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Act for taking the oath of alledgeance and the assurance. Edinburgh, the twentie third day of May, 1693</title>
+                  <author>Scotland. Convention of Estates.</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by the heir of Andrew Anderson, printer to their most excellent Majesties,</publisher>
+                  <pubPlace>Edinburgh :</pubPlace>
+                  <date>Anno 1693.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Drop-head title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of original in the Folger Shakespeare Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Allegiance --  Great Britain --  Early works to 1800.</term>
+               <term>Loyalty oaths --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-04</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-04</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="act">
+            <pb facs="tcp:153306:1" rendition="simple:additions"/>
+            <head>
+               <figure>
+                  <figDesc>royal blazon or coat of arms</figDesc>
+                  <head>WM RR</head>
+                  <q>HONI SOIT QVI MAL Y PENSE</q>
+                  <q>DIEV ET MON DROIT</q>
+               </figure>
+               <hi>ACT</hi> For taking the Oath of Alledgeance and the Aſſurance.</head>
+            <opener>
+               <dateline>Edinburgh, <date>
+                     <hi>the Twentie third day of</hi> May, 1693.</date>
+               </dateline>
+            </opener>
+            <p>
+               <seg rend="decorInit">F</seg>ORASMUCH AS, the impoſing and taking the Oath of Al<g ref="char:EOLhyphen"/>ledgeance, and the Aſſurance, enacted in this current Parliament, as hereto ſubjoyned, will he a further Security to the Proteſtant Religion and Their Majeſties Government, in this preſent exigence: Therefore, the <hi>King</hi> and <hi>Queens</hi> Majeſties, with Advice and Conſent of the Eſtates of Parliament, Statute and Ordain, that the ſaid Oath of Alledgeance be Sworn, and the ſame with the foreſaid Aſſurance, be Subſcri<g ref="char:EOLhyphen"/>ved by all Noblemen, and their eldeſt Sons, being paſt Twentie one years of Age, and by all perſons in Offices and Places of publick Truſt, Civil, Eccleſi<g ref="char:EOLhyphen"/>aſtical and Military, <hi>to wit,</hi> by all Members of Parliament, and Electors of Mem<g ref="char:EOLhyphen"/>bers of Parliament, all Privy Counſellours, all Officers of State, and of the Crown, all the Lords of Seſſion, Advocats, and all others, Members of the Col<g ref="char:EOLhyphen"/>ledge of Juſtice, the Lords of Theſaury and Exchequer, Lords of Juſticiary, and all Members of theſe Courts, and all Officers, and Members of the Admirality, and all Officers, and Members of the Chancellary, Writers, and Under-keep<g ref="char:EOLhyphen"/>ers of the Privy Seal, Poſt-maſters, and their Clerks, all Commiſſioners to the Convention of Burrows, and their Clerk, and the Servants who officiat under him, and the Agent for the Royal-Burrows, the Conſervator of the Scots Priviledges in <hi>Holland,</hi> and the Factors at the Staple-ports, all Collonels, and other Commiſ<g ref="char:EOLhyphen"/>ſionat Officers of the Train-bands, all perſons who are, or ſhall be Commiſſio<g ref="char:EOLhyphen"/>ners for Valuation, <hi>Re</hi>-valuation, or rectifying Valuation of Lands, and all per<g ref="char:EOLhyphen"/>ſons having heretable Offices from the King, not already mentioned in this Act, all Preachers and Miniſters of the Goſpel whatſomever, and all Cerks in Church Judicatories and Precenters, and all Heretors voting in the calling of Miniſters, and all others whatſomever, giving voice in the ſaid calling of Miniſters, at their Meeting for that effect, all perſons in this Kingdom named, or to be named Judges, in Commiſſions of Juſticiary, all Members of the Commiſſion for Va<g ref="char:EOLhyphen"/>luation of Tiends, and Plantation of Kirks, or other Commiſſions of Parliament, all Sheriffs, Stewarts, Bailies of Royalties and Regalities, Commiſſars and their Deputs, Clerks and Piſcals, Juſtices of Peace, Commiſſioners for the Supply and Exciſe, Officers of the Mint, with their Clerks and Fiſcals, all Procurators before any of the Courts above-mentioned, all Writers to the Signet, all publick
+<pb n="2" facs="tcp:153306:2"/>Notars, and other perſons imployed in writing, or agenting, the Lyon King at Arms, the Lyon Deput, Heraulds, Macers, Purſevants, and Meſſengers at Arms, and their Clerk, all Chamberlains, Collectors, Fermorers, Tacksmen, Sub-colle<g ref="char:EOLhyphen"/>ctors of Their Majeſties Crown-rents, Cuſtoms, Aſſeſſment, Exciſe, Biſhop-Rents, Vacant Stipends, or any other Moneys belonging, or that ſhall happen to be<g ref="char:EOLhyphen"/>long to Their Majeſties, all Surveyers, and Waiters for the Cuſtoms and Exciſe, and Clerks in any of theſe Offices, or Imployments, and Clerks of Cocquets, all Magiſtrats, Deans of Gild with their Council, Theſaurers, Counſellours, and Clerks of Burghs-Royal, and of Regality, or ſuch as officiat for them, all Deacons of Trades, and Deacon-Conveeners in the ſaids Burghs, and ſuch as have any voice in electing of Deacons of Trades, with all Clerks of Trades, all Jaylors and Keep<g ref="char:EOLhyphen"/>ers of Priſons, and Under-keepers, and their Clerks, and all Maſters and Doctors in <g ref="char:V">Ʋ</g>niverſities, Colledges, or Schools, and Keepers of publick Liberaries, all Chaplains in Families, and Pedagogues, and Governours to Children and Youth, all Officers in the Army, Forts and Garriſons, and all Maſters of Ships and their Mates. All which perſons, and every one of them, ſhall now, and in all time com<g ref="char:EOLhyphen"/>ing, publickly Swear the ſaid Oath, and Subſcrive the ſame with the Aſſurance in manner following, <hi>viz.</hi> The Officers of State &amp; of the Crown, and Counſellors before the Secret Council, all Noblemen and their eldeſt Sons, paſt Twenty one years of Age, and the chief Commanders of the Forces, before the Secret Council, or ſuch as they ſhall appoint, all the Lords of Seſſion, &amp; all Members of the Colledge of Juſtice, and others depending upon them, before the Sesſion, or before the Privy Council, or ſuch as the Lords ſhall appoint, the Lords of Juſticiary, and thoſe de<g ref="char:EOLhyphen"/>pending upon that Court, in the Juſtice Court, the Lords and others Members of the Exchequer, before the Exchequer, the Lord high Admiral and the Judge, and o<g ref="char:EOLhyphen"/>ther Officers, &amp; Members of the Admirality before the Court of Admirality, all Jud<g ref="char:EOLhyphen"/>ges having Commiſſions of Juſticiary, at the firſt Meeting, before they exerce, by vertue of theſe Commiſſions: the Officers and Members of the Chancellory, Wri<g ref="char:EOLhyphen"/>ters to, and Under-keepers of the Privy Seal before the Seſſion, or ſuch as the Secret Council ſhall appoint, Commiſſioners to the Convention of Burrows, the Clerk &amp; the Servants who officiat under him, &amp; the Agent for the Burrows, before the Convention of Burrows: The Conſervator before the Convention of Burrows, or ſuch as the Privy Council ſhall appoint: and the Factors, at Staple-ports before the Conſervator in his Court: Members of the Commiſſion for the Valuation of Tiends, and Plantation of Kirks, or of other Commiſſions before thoſe reſpective Commiſſions, Sheriffs, Stewarts, Bailies of Royalties and Regalities, Commiſſars and their Deputs, Clerks and Fiſcals, before theſe reſpective Courts, Juſtices of Peace, Commiſſioners for the Supply and Exciſe before their Conveener, he firſt qualifying himſelf in their Meeting, the General of the Mint, before the Secret Council, and all other Officers of the Mint, before the General thereof: all Advocats and Procurators, before the reſpective Courts to which they belong: All Notars and other Perſons imployed in Writing, or Agenting before the Lords of Seſſion, or ſuch as the Council ſhall appoint: the Lyon King at Arms, before the Secret Council: the Lyon Deput, Heraulds, Purſevants, and Meſ<g ref="char:EOLhyphen"/>ſengers at Arms, with the Clerk, before the Lyon in his Court: The Macers before the reſpective Courts wherein they ſerve, or before theſe, whom the Coun<g ref="char:EOLhyphen"/>cil ſhall appoint: Chamberlains, Collectors, Fermorers, Tacks-men, and Sub-col<g ref="char:EOLhyphen"/>lectors of the Crown-Rents, Cuſtoms, Exciſe, and Biſhop Rents, Surveyers, Wait<g ref="char:EOLhyphen"/>ers and their Clerks, before the Lords of Theſaury and Exchequer, or before whom they ſhall appoint: Collectors of the Supply and Exciſe, before the Com<g ref="char:EOLhyphen"/>miſſioners of Supply and Exciſe, Magiſtrats, Deans of Gild with their Council, Theſaurers, Counſellours, and Clerks of Burghs-royal and Regality, Deacons of Trades, and Deacon-conveeners, and theſe who have a voice in electing of Deacons of Trades, and Clerks of Trades, before the Council of the Burgh: Officers of the Army, before the Commander in chief, or whom he ſhall appoint:
+<pb n="3" facs="tcp:153306:2"/>And Officers of Forts, before the Secret Council, or ſuch as they ſhall appoint: Maſters of Ships and their Mates, before the Court of Admirality, or ſuch as they ſhall appoint: And all the other Perſons above-ranked, without any ſpecial appointment, before ſuch as the Privy Council ſhall appoint. And Their Majeſties with Conſent foreſaid, Statute and Ordain, that the whole Per<g ref="char:EOLhyphen"/>ſons above-mentioned, ſhall Swear the ſaid Oath, and Subſcribe the ſame, and the Aſſurance in manner foreſaid, betwixt and the Twenty day of <hi>June</hi> next: for which end, all the Inferiour Courts, are hereby diſpenſed with, to Sit to the effect foreſaid, excepting Electors of Members of Parliament, and Members of the Commiſſions above-mentioned, and theſe giving voice in calling of Mini<g ref="char:EOLhyphen"/>ſters, and ſuch as have voice in Electing of Deacons of Trades, who are hereby appointed to take the ſaid Oath, and ſubſcribe the ſame, with the Aſſurance, as follows, <hi>viz.</hi> The Electors of Members of Parliament, before they elect, members of Commiſſions, before they exerce the Commiſſions: And ſuch as have a voice in calling of Miniſters, or electing of Deacons of Trades, before they give voice in calling of Miniſters, or electing of Deacons of Trades, and alſo, excepting the Conſervator, and the Factors of the Staple-ports, who are to Swear the ſaid Oath, and ſubſcribe the ſame, and the Aſſurance, betwixt and the fifteenth day of <hi>Au<g ref="char:EOLhyphen"/>gust</hi> next. And the ſaid Oath and Aſſurance, Sworn and Subſcribed as above, are to be recorded in the Regiſters of the reſpective Courts and Meetings, and the extracts thereof under the Clerks hands, to be reported to Their Majeſties Privy Council, under the pain of Deprivation of the Clerk, for ſuch as are appointed to Swear and Subſcrive, betwixt and the twentieth of <hi>June,</hi> to be reported be<g ref="char:EOLhyphen"/>twixt and the firſt of <hi>Auguſt</hi> next, and for the reſt, within twenty days after their ſaid ſwearing and ſubſcribing. And it is further Statute and Ordained, that all Perſons, who ſhall hereafter be advanced to, or imployed in any of the foreſaids Offices, Truſts, or Stations, ſhall at their Entry unto, and before their exercing thereof, Swear the ſaid Oath and ſubſcribe the ſame, and the Aſſurance in man<g ref="char:EOLhyphen"/>ner foreſaid, to be Recorded in the Regiſters of the reſpective Courts, and re<g ref="char:EOLhyphen"/>ported to Their Majeſties Privy Council, within the ſpace of fourty days after taking of the ſame, and exercing the foreſaids Offices, Truſts, Priviledges and Imployments, which Reports are to be received, and taken in by the Clerks of Privy Council <hi>gratis,</hi> And it is hereby Statute and Ordained, That all Per<g ref="char:EOLhyphen"/>ſons who shall obtain any free Gift, or Donations from the Lords of Their Maje<g ref="char:EOLhyphen"/>ſties Privy Council, Theſaury or Exchequer, or ſhall preſent any Signature of Penſion, Remiſſion, or containing a <hi>de novo damus,</hi> or of any other caſuality, except Gifts of Eſcheats, are to take the ſaid Oath and Aſſurance, before ob<g ref="char:EOLhyphen"/>taining the ſaid Gift, or paſſing the ſaid Signature, certifying ſuch of the fore<g ref="char:EOLhyphen"/>ſaids Perſons as are, or ſhall be in any publick Office, Truſt, or Imployment, or who shall own, or exerce the ſame, without taking the ſaid Oath and Aſſu<g ref="char:EOLhyphen"/>rance in manner foreſaid, they shall be deprived <hi>ipſo facto</hi> of their ſaids Offices, Truſts and Imployments, and Miniſters provided to Kirks, shall be deprived of their Benefices, or Stipends, and Preachers not provided to Kirks, shall be pu<g ref="char:EOLhyphen"/>nished by Banishment, or otherways, as the Council shall think fit; and all the foreſaid Tacksmen, shall be punished as the Privy Council shal think fit. And farther that they and all other Perſons, whether above ranked or not, who shall not Swear the ſaid Oath, and Subſcribe the ſame, and the Aſſurance shall not be al<g ref="char:EOLhyphen"/>lowed to keep any Horſes, above an hundred Merks-price, nor any ſort of Arms, more than a Walking-ſword; certifying, ſuch as shall be found to have Horſes and Arms contrair to this Proviſion, either in their own, or in the keeping of others, that both the Owner and the Keeper, shall incur the Penalty of one Thouſand Merks, the one half to the Informer, and the other to their Majeſties: And Their Majeſties with Conſent foreſaid, Authorizes and Impowers the Lords of Privy Council, to take ſuch further effectual Methods, for Diſarming theſe Perſons, and ſeaſing of their Horſes above the foreſaid value, as they shall
+<pb n="4" facs="tcp:153306:3" rendition="simple:additions"/>judge neceſſary; As like ways, they impower the Council to call before them, all, or any Heretor, or other Perſons of whom they shall think fit, whether above ranked or not, and to put the ſaid Oath and Aſſurance to them, and in caſe of their Refuſal, to proceed againſt them by Fining, Confining, Impriſonment, or Banishment, as they shall ſee cauſe; the Fine if they be Heretors, to be the double of their Ceſs or Supply, and further, (if the Council shall think fit,) not exceed<g ref="char:EOLhyphen"/>ing an years valued Rent; and for others not Heretors, the third part of their eſcheatable Goods, by and attour the other Penalties, contained in the thirty eight Act of the ſecond Seſſion of this current Parliament; It is alſo hereby enacted, that the ſaid Oaths of Alledgiance and Aſſurance, are in no caſe to be impoſed, or taken ſeverally, but joyntly, declaring hereby, that theſe who refuſe the one, shall be holden as refuſing both. And Their Majeſties with Advice foreſaid, recommends to their Privy Council, to ſee this Act put to due and vigorous Execution, with all diligence: And it is hereby declared, that the foreſaid general Power granted to the Council, is to endure until the next Seſſion of Parliament allanarly: And Laſtly, it is hereby provided, that ſuch as have already taken and ſubſcribed the ſaid Oath, and ſubſcribed the Aſſurance, ſhall not be obliged, by vertue hereof to take and ſubſcribe the ſame again in the ſame Capacity.</p>
+            <div type="oath">
+               <head>The Oath of Alledgiance.</head>
+               <p>
+                  <hi>I</hi> A. B. Do ſincerely Promiſe and Swear, that I will be Faithful, and bear true Alledgiance to Their Majeſties, King <hi>WILLIAM</hi> and Queen <hi>MARY; So help me GOD.</hi>
+               </p>
+            </div>
+            <div type="oath">
+               <head>The Aſſurance.</head>
+               <p>
+                  <hi>I</hi> A. B. Do in the ſincerity of my Heart, Aſſert, Acknowledge and Declare, that Their Majeſties King <hi>WILLIAM</hi> and Queen <hi>MARY,</hi> are the only Law<g ref="char:EOLhyphen"/>full undoubted Soveraigns of this Realm, as well <hi>de jure,</hi> That is of Right, King and Queen, as <hi>de facto,</hi> That is in the Poſſeſſion and Exerciſe of the Government: And therefore, I do ſincerely and faithfully Promiſe and Engage, that I will with Heart and Hand, Life and Goods, maintain and defend Their Majeſties Title and Government, against the late King <hi>James,</hi> and his Adherents, and all other Enemies, who either by open or ſecret Attempts, ſhall Diſturb or Diſquiet Their Majesties in the Poſſeſſion and Exerciſe thereof.</p>
+               <closer>
+                  <signed>Extracted forth of the Records of Parliament, by <hi>TARBAT.</hi> Cls. Regiſtri.</signed>
+               </closer>
+               <closer>God ſave King <hi>VVilliam</hi> and Queen Mary.</closer>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>Edinburgh,</hi> Printed by the Heir of <hi>Andrew Anderſon,</hi> Printer to their moſt Excellent Majeſties, <hi>Anno</hi> 1693.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
